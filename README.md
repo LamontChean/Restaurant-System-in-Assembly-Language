@@ -1,5 +1,6 @@
 # Restaurant-System-in-Assembly-Language
 The Restaurant Management System, developed in Assembly Language(MASM), is a sophisticated solution designed to streamline operations and enhance customer experience in restaurants.
+
 ![image](https://github.com/LamontChean/Restaurant-System-in-Assembly-Language/assets/101232039/5550e837-bf24-4794-8f3e-77624ab3463e)
 
 ## User Authentication: 
@@ -20,3 +21,8 @@ The system includes a stock management module, allowing staff to view current st
 ## Sales and Expenses Reports: 
 The system generates detailed Daily Summary Sales and Expenses Reports. These reports provide insights into daily earnings, expenses, best-selling items, restocking quantities, and other essential metrics for informed decision-making.
 
+### Additional Information
+COMMAND TO EXECUTE THE .asm
+1. masm main.asm
+2. link main.obj
+3. main.exe
